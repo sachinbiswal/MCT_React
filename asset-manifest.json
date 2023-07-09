@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MCT_React/static/css/main.ff3a6508.css",
+    "main.js": "/MCT_React/static/js/main.7c18ec8b.js",
+    "static/js/787.cfb4b6b7.chunk.js": "/MCT_React/static/js/787.cfb4b6b7.chunk.js",
+    "index.html": "/MCT_React/index.html",
+    "main.ff3a6508.css.map": "/MCT_React/static/css/main.ff3a6508.css.map",
+    "main.7c18ec8b.js.map": "/MCT_React/static/js/main.7c18ec8b.js.map",
+    "787.cfb4b6b7.chunk.js.map": "/MCT_React/static/js/787.cfb4b6b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff3a6508.css",
+    "static/js/main.7c18ec8b.js"
+  ]
+}
