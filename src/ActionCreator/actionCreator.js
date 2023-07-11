@@ -38,7 +38,7 @@ export const toggleLike = (userId) => ({
 export const deleteUser = (userId) => {
   return (dispatch) => {
     axios
-      .delete(`http://localhost:3030/users/${userId}`)
+      .delete(`https://jsonplaceholder.typicode.com/users${userId}`)
       .then(() => {
         dispatch({
           type: DELETE_USER,
