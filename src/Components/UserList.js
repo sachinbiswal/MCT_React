@@ -25,7 +25,7 @@ const UserList = () => {
     dispatch(fetchUsersRequest());
 
     axios
-      .get('http://localhost:3030/users')
+      .get('https://jsonplaceholder.typicode.com/users')
       .then((response) => {
         dispatch(fetchUsersSuccess(response.data));
       })
