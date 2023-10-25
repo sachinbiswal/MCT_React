@@ -1,4 +1,3 @@
-# Project Demo: https://sachinbiswal.github.io/MCT_React/
 # This App is developed using React and Redux
 ---------------------------------------------------------------------------
 # Libraries used
